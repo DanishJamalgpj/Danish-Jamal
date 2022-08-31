@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Danish Jamal
+Learning Python Data Science,Machine Learning,AI,Tablue from open source platform and coursera,Great Learning
+
 
 <!--
 **DanishJamalgpj/DanishJamalgpj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
